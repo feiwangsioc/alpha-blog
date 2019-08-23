@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 # alpha-blog
+
+This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
+
